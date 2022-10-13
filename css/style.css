@@ -37,6 +37,11 @@ footer {
     font-family: 'Lato', sans-serif;
 }
 
+footer ul {
+    margin: 5px auto;
+    font-weight: bold;
+}
+
 nav ul li {
     list-style: none;
     padding: 0 23px;
